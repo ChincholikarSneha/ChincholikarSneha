@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ChincholikarSneha
-- 👀 I’m interested in Artificial Intelligence
-- 🌱 I’m currently learning B.Tech in Computer Science specialized in Artificial Intelligence
-- 💞️ I’m looking to collaborate on projects related to Artificial INtelligence, Machine Learning, Web Development
-- 📫 You can reach me through LinkedIn
+- 👀 I’m interested in Artificial Intelligence,Quantum Physics.
+- 🌱 I’m currently studying B.Tech in Computer Science Engineering specialized in Artificial Intelligence
+- 💞️ I’m looking to collaborate on projects related to Artificial Intelligence, Machine Learning, Web Development
+- 📫 You can reach me through LinkedIn 
 - 😄 Pronouns: She/her
   
 
