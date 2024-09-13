@@ -2,7 +2,7 @@
 - 👀 I’m interested in Artificial Intelligence,Quantum Physics.
 - 🌱 I’m currently studying B.Tech in Computer Science Engineering specialized in Artificial Intelligence
 - 💞️ I’m looking to collaborate on projects related to Artificial Intelligence, Machine Learning, Web Development
-- 📫 You can reach me through LinkedIn 
+- 📫 You can reach me out through LinkedIn 
 - 😄 Pronouns: She/her
   
 
