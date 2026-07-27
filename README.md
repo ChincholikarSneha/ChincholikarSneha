@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @ChincholikarSneha
-- 👀 I’m interested in Artificial Intelligence,Quantum Physics.
-- 🌱 Backend developer working for a mortgage firm
-- 💞️ I’m looking to collaborate on projects related to Artificial Intelligence, Machine Learning, Web Development
-- 📫 You can reach me out through LinkedIn 
-- 😄 Pronouns: She/her
+Software engineer transitioning into Product Management. I enjoy breaking down user problems, questioning why things work the way they do, and designing solutions that create value for both users and businesses. My repositories document that learning journey—from backend engineering to product strategy, PRDs, user research, and growth experiments.
   
 
 <!---
